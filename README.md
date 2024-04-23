@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Reese.
+- 👋 Hi, I’m Reesie.
 - 👀 I’m interested in learning data analysis. 
 - 🌱 I’m currently learning python and SQL. 
 - 💞️ I’m looking for a mentor. 
